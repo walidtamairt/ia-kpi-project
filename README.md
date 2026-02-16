@@ -74,4 +74,5 @@ python scripts/06_infer_user_file.py --file mon_fichier.csv
 
 ## 👤 Auteur
 
-**Walid TAMAIRT** — Stage Data Science / IA
+**Walid TAMAIRT** — Etudiant en Data Science / IA
+
