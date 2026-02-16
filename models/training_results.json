@@ -1,0 +1,14 @@
+{
+  "categorie": {
+    "cv_f1_macro": 0.4368,
+    "cv_std": 0.0207
+  },
+  "risque": {
+    "cv_f1_weighted": 1.0,
+    "cv_std": 0.0
+  },
+  "delai": {
+    "cv_r2": 0.4626,
+    "cv_std": 0.0765
+  }
+}
